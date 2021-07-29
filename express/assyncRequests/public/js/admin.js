@@ -15,5 +15,5 @@ const deleteProduct = (btn) => {
         })
         .catch(err => {
             console.log(err);
-        }) 
+        })
 };
